@@ -1,0 +1,6 @@
+export const COUNTDOWN_START = 'COUNTDOWN_START';
+export const COUNTDOWN_RESET = 'COUNTDOWN_RESET';
+export const COUNTDOWN_TICK = 'COUNTDOWN_TICK';
+export const ERROR_MSG = 'ERROR_MSG';
+export const BEGIN_ERROR_MSG = 'BEGIN_ERROR_MSG';
+export const END_ERROR_MSG = 'END_ERROR_MSG';
